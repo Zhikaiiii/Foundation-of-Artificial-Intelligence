@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="Operator">
+    <file>oper/add.png</file>
+    <file>oper/equal.png</file>
+    <file>oper/mul.png</file>
+    <file>oper/minus.png</file>
+  </qresource>
+</RCC>
